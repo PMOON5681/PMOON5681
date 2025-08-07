@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**PMOON5681/PMOON5681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Petch.
+- 🔭 I’m currently an Internship for Gofive co. th.
+- 🌱 I’m currently learning Networking and CyberSecurity.
+- 📫 How to reach me: ph.thanadon.13@gmail.com
+    IG: _tehpp
+- ⚡ Fun fact: 🤔
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMOON5681)](https://github.com/anuraghazra/github-readme-stats)
