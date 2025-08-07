@@ -1,12 +1,31 @@
-## Hi there 👋
+<!-- Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256)
 
-- My name is Petch.
-- 🔭 I’m currently an Internship for Gofive co. th.
-- 🌱 I’m currently learning Networking and CyberSecurity.
-- 📫 How to reach me: ph.thanadon.13@gmail.com
-    IG: _tehpp
-- ⚡ Fun fact: 🤔
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMOON5681&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PMOON5681&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+<!-- About Me -->
+## 👋 About Me
+- 🔭 I'm currently an Internship of Gofive co. th.
+- 🌱 I'm currently learning Angular & ASP .net
+- 💬 Ask me about My life
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PMOON5681&theme=apprentice&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMOON5681&layout=compact&theme=apprentice" />
+</div>
+
+<!-- Snake Animation -->
 ![Snake animation](https://github.com/PMOON5681/PMOON5681/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PMOON5681&color=blueviolet&style=flat-square" />
+</div>
