@@ -16,7 +16,7 @@
 
 ## Projects
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PMOON5681&repo=guardio)](https://github.com/PMOON5681/GofiveCorp/guardio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PMOON5681&repo=GofiveCorp/guardio)](https://github.com/PMOON5681/GofiveCorp/guardio)
   
 ## ⚡ Contacts
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
