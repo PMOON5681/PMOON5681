@@ -3,7 +3,7 @@
 
     
 
-![App Screenshot](https://res.cloudinary.com/djfi1lbl2/image/upload/v1754539172/rainy_tokyo_crlpom.jpg)
+![Banner](https://res.cloudinary.com/djfi1lbl2/image/upload/v1754539172/rainy_tokyo_crlpom.jpg)
 
 
 ## 🧇 Tech Stack
@@ -13,6 +13,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PMOON5681&show_icons=true&theme=dark&bg_color=2D3748&text_color=FFFFFF&title_color=FFFFFF&icon_color=79FF97&border_color=2D3748&include_all_commits=true&count_private=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PMOON5681&layout=compact&theme=dark&bg_color=2D3748&text_color=FFFFFF&title_color=FFFFFF&border_color=2D3748&card_width=445)
+
+## Projects
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PMOON5681&repo=guardio)](https://github.com/PMOON5681/GofiveCorp/guardio)
   
 ## ⚡ Contacts
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
